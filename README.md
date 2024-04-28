@@ -1,4 +1,4 @@
-![Output1](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/620b2de0-76b6-4f79-836e-330e50a80d93)# Image_Acqusition-_using_Web_Camera
+# Image_Acqusition-_using_Web_Camera
 ## Aim
  
 Aim:

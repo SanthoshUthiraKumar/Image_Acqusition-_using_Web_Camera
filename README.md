@@ -1,4 +1,4 @@
-# Image_Acqusition-_using_Web_Camera
+![Output1](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/620b2de0-76b6-4f79-836e-330e50a80d93)# Image_Acqusition-_using_Web_Camera
 ## Aim
  
 Aim:
@@ -106,24 +106,16 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![santhosh](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/e0ba5b5a-1e52-44e7-bb71-525482315dee)
-</br>
-</br>
+![Output1](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/c5a7ed88-8250-48db-bc2c-3e99f7033b5f)
 
 ### ii) Display the video
-![sea](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/e6d64afe-82e6-4dfb-9ad9-84bdc30f278c)
-</br>
-</br>
+![Output2](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/b6fa7f3c-6f86-4a1b-af3c-e6848bfa9f84)
 
 ### iii) Display the video by resizing the window
-![4window](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/6c35720c-944b-462e-8173-87e92209492e)
-</br>
-</br>
+![Output3](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/7415e567-aa4c-4154-a247-4f3dad93da5a)
 
 ### iv) Rotate and display the video
-![4window2](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/1b014cc5-9ccf-44c2-a5de-2b8d5dd7a90c)
-</br>
-</br>
+![Output4](https://github.com/SanthoshUthiraKumar/Image_Acqusition-_using_Web_Camera/assets/119477975/e94b44d1-d1d0-4768-8526-13ea356fceb7)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
